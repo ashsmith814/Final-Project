@@ -27,6 +27,7 @@ This dataset displays the attendance in each community.
 
 ### **Population Dataset**
 This dataset displays the population of each neighborhood.
+
 **Link:** https://data.wprdc.org/dataset/5b18c198-474c-4723-b735-cc5220ad43cc/resource/82f29015-6905-4b1c-8300-afe9bb2231b3
 
 ---
