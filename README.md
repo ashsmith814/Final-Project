@@ -27,5 +27,5 @@ This dataset displays the attendance in each community.
 
 ---
 
-## Overview (1 Sentence)
+## Overview 
 Analyzing the community engagement, arrest rate, and playground count datasets to determine the best neighborhood in Pittsburgh.
