@@ -25,6 +25,10 @@ This dataset portrays the number of playgrounds in each neighborhood.
 This dataset displays the attendance in each community.  
 **Link:** https://data.wprdc.org/dataset/daily-community-center-attendance/resource/b7cb30c8-b179-43ff-8655-f24880b0f578
 
+### **Population Dataset**
+This dataset displays the population of each neighborhood.
+**Link:** https://data.wprdc.org/dataset/5b18c198-474c-4723-b735-cc5220ad43cc/resource/82f29015-6905-4b1c-8300-afe9bb2231b3
+
 ---
 
 ## Overview 
